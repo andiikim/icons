@@ -6,7 +6,7 @@
        C256,21.3,234.7,0,208.7,0z"
     fill="none"
     stroke="#000000"
-    stroke-width="4"
+    stroke-width="10"
     stroke-linejoin="round"
   />
 
@@ -28,7 +28,7 @@
        c2.3-2.3,6-2.3,8.2,0l21.6,21.6c1.1,1.1,1.7,2.6,1.7,4.1C204.9,148.8,204.3,150.3,203.2,151.4z"
     fill="#000000"
     stroke="#000000"
-    stroke-width="1"
+    stroke-width="2"
     stroke-linejoin="round"
   />
 </svg>
